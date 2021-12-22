@@ -48,7 +48,7 @@ const SingleMovie = () => {
         <p>{plot}</p>
         <h4>{year}</h4>
         <Link to='/' className='btn'>
-          back to movies
+          ホームページ
         </Link>
       </div>
     </section>
